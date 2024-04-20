@@ -10,6 +10,7 @@ You can play by copying the game files folder, and launching the exe.
 - Measures solve time
 - Keeps best solve times, for a given difficulty in highscores
 - Can move multiple tiles in the game
+- Game resizes the texture from provided image, in order to have square sprites
 
 Game 5x5
 ![image](https://github.com/Maffias/Slider-Puzzle/assets/94808923/9b739f38-3d9a-4ec8-983f-97e39f828036)
